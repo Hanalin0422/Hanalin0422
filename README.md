@@ -40,6 +40,9 @@ FullStack Developer가 되어 사람들에게 도움이 되는 서비스를 직�
 
 
 ## 🛠️ My Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanalin0422&layout=compact)
+
+
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -80,9 +83,6 @@ FullStack Developer가 되어 사람들에게 도움이 되는 서비스를 직�
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanalin0422&layout=compact)
-
 ## 📚 Studying
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -90,6 +90,7 @@ FullStack Developer가 되어 사람들에게 도움이 되는 서비스를 직�
 
 
 ## 🏆 Baekjoon Tier
+- 백준 계정이 2개입니다!
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebee)](https://solved.ac/bluebee)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanalin2)](https://solved.ac/hanalin2)
 
