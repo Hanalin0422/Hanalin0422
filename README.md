@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=3100ff&height=300&section=header&text=Easy's%20Github&fontSize=90&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=00CFFF&center=true&vCenter=true&random=false&width=435&lines=Feel+free+to+browse+Easy%E2%80%99s+repository)](https://git.io/typing-svg)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=00CFFF&center=true&vCenter=true&random=false&width=435&lines=Feel+free+to+browse+Easy%E2%80%99s+repository" alt="Typing SVG">
+    </a>
+</div>
 
 ## 🚀 About Me
 기획부터 개발까지 차근차근 할 수 있는 기술과 능력의 범위를 넓혀가고 있는 개발자입니다.  
