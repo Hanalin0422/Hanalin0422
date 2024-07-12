@@ -86,11 +86,11 @@ FullStack Developer가 되어 사람들에게 도움이 되는 서비스를 직�
 ## 📚 Studying
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-- 최근에는 앱을 만들어보고 싶어 swift를 공부하고 있습니다.
+- 최근에는 IOS 앱을 만들어보고 싶어 swift를 공부하고 있습니다.
 
 
 ## 🏆 Baekjoon Tier
-- 백준 계정이 2개입니다!
+- 백준 계정이 2개입니다!  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebee)](https://solved.ac/bluebee)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanalin2)](https://solved.ac/hanalin2)
 
