@@ -86,7 +86,7 @@ FullStack Developer가 되어 사람들에게 도움이 되는 서비스를 직�
 
 
 ## 🏆 Baekjoon Tier
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebee)](https://solved.ac/bluebee)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebee)](https://solved.ac/bluebee)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanalin2)](https://solved.ac/hanalin2)
 
 
